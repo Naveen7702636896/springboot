@@ -60,7 +60,8 @@
 				<enabled>false</enabled>
 			</releases>
 		</repository>
-	</repositories>
+	</repositories> 
+	<!--
 	<pluginRepositories>
 		<pluginRepository>
 			<id>spring-milestones</id>
@@ -77,7 +78,7 @@
 			<releases>
 				<enabled>false</enabled>
 			</releases>
-		</pluginRepository>
+       </pluginRepository> -->
 	</pluginRepositories>
 	<pluginRepositories>
 	    <pluginRepository>    
